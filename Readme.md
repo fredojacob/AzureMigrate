@@ -29,6 +29,6 @@ En resumen, Azure Migrate ofrece una gama completa de herramientas y servicios p
 
 | **Requerimiento** | **Detalle**         | 
 |:------------- |:---------------:| 
-| Suscripción   | Se requiere de una suscripcion dentro del tenant del cliente debido a que en base a eso se pueden crear recursos que son los procesos basicos internos que realiza azure migrate para el la evaluacion o el "Discovery"          |
-| Row 2         | Cell 5          |
+| Suscripción   | Se requiere de una suscripcion dentro del tenant del cliente debido a que en base a eso se pueden crear recursos que son los procesos basicos internos que realiza azure migrate para el la evaluacion o el "Discovery" .         |
+| Usuario       | El usuario debe contar con permisos de Owner u contributor dentro del tenant "portal.azure.com"          |
 | Row 3         | Cell 8          |
