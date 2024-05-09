@@ -3,6 +3,8 @@
 
 ## Ejercicios Basicos :
 
+**Prompt 1: Resumir este documento .**
+
 Copilot realiza un resumen analítico contextualmente del documento presente.
 
 **Prompt 2:** Resumir este documento “c://” especificando el nombre del documento al cual 
@@ -28,6 +30,7 @@ Este brinda detalles del estado actual del documento y las mejoras posibles a re
 
 
 A continuacion subiremos al nivel 2 de Copilot donde trataremos de realizar un flujo de trabajo o una tarea completa .
+
 
  ## Descripcion del Ejercicio 1
 
